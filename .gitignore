@@ -1,0 +1,5 @@
+.vscode/
+output/
+/*.c
+/*.txt
+!.gitignore
